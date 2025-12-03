@@ -28,7 +28,7 @@ public class ProjectRepository
                 ProjectManagerId = 6, // Jorge Ramírez Castro - Arquitecto Cloud
                 Priority = "Alta",
                 Budget = 250000m,
-                TeamMemberIds = new List<int> { 1, 6, 8 }, // Javier, Jorge, David
+                TeamMemberIds = new List<int> { 1, 6, 8 }, // Carlos, Jorge, David
                 Tasks = new List<ProjectTask>
                 {
                     new ProjectTask

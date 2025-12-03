@@ -7,7 +7,7 @@ param(
     [string]$FunctionAppName = "func-mcp-project-manager"
 )
 
-az account set --subscription "6364e341-b5f0-4259-91ed-bac0249f143e"
+az account set --subscription "xxxxxx-xxxxxxx-xxxxxx-xxxxxx-xxxxxxxxxx"  # Reemplaza con tu Subscription ID
 
 Write-Host "`n=== DESPLIEGUE DE AZURE FUNCTION MCP SERVER ===" -ForegroundColor Cyan
 Write-Host ""

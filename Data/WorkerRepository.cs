@@ -13,60 +13,60 @@ public class WorkerRepository
             new Worker
             {
                 Id = 1,
-                Nombre = "Javier Moreno",
+                Nombre = "Carlos Martínez López",
                 Departamento = "DAR",
                 Puesto = "Chief Arquitect",
-                Email = "javier.morenito@nttdata.com",
+                Email = "carlos.martinez@empresa.com",
                 Telefono = "+34 912 345 001",
                 Ubicacion = "Valencia, España"
             },
             new Worker
             {
                 Id = 2,
-                Nombre = "Moises Alberto Alvaro Blanco",
+                Nombre = "Luis Fernando García",
                 Departamento = "DAR",
                 Puesto = "Chief Arquitect",
-                Email = "moises.alvaro@empresa.com",
+                Email = "luis.garcia@empresa.com",
                 Telefono = "+34 912 345 002",
                 Ubicacion = "Valencia, España"
             },
             new Worker
             {
                 Id = 3,
-                Nombre = "Sergio Millas Calomarde",
+                Nombre = "Ricardo Sánchez Torres",
                 Departamento = "DAR",
                 Puesto = "Project Manager",
-                Email = "sergio.millas@empresa.com",
+                Email = "ricardo.sanchez@empresa.com",
                 Telefono = "+34 912 345 003",
                 Ubicacion = "Valencia, España"
             },
             new Worker
             {
                 Id = 4,
-                Nombre = "Pablo Camacho Jimenez",
+                Nombre = "Miguel Ángel Ruiz",
                 Departamento = "DAR",
                 Puesto = "Manager",
-                Email = "pablo.camacho@empresa.com",
+                Email = "miguel.ruiz@empresa.com",
                 Telefono = "+34 912 345 004",
                 Ubicacion = "Valencia, España"
             },
             new Worker
             {
                 Id = 5,
-                Nombre = "Juan Periset",
+                Nombre = "Antonio Fernández Vega",
                 Departamento = "DAR",
                 Puesto = "Director",
-                Email = "juan.periset@empresa.com",
+                Email = "antonio.fernandez@empresa.com",
                 Telefono = "+34 912 345 005",
                 Ubicacion = "Valencia, España"
             },
             new Worker
             {
                 Id = 6,
-                Nombre = "Jorge Gaitan",
+                Nombre = "Alberto Ramírez Cruz",
                 Departamento = "DAR",
                 Puesto = "Junior Engineer",
-                Email = "jorge.gaitan@empresa.com",
+                Email = "alberto.ramirez@empresa.com",
                 Telefono = "+34 912 345 006",
                 Ubicacion = "Valencia, España"
             },

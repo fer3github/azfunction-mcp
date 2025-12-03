@@ -387,7 +387,7 @@ public class McpServerFunction
                 new McpTool
                 {
                     Name = "assign_worker_by_name",
-                    Description = "Asigna un trabajador a un proyecto usando nombres (busca automáticamente los IDs). Útil para asignaciones en lenguaje natural como 'añade a Javier Moreno al proyecto de migración'",
+                    Description = "Asigna un trabajador a un proyecto usando nombres (busca automáticamente los IDs). Útil para asignaciones en lenguaje natural como 'añade a Carlos Martínez López al proyecto de migración'",
                     InputSchema = new
                     {
                         type = "object",
